@@ -1,0 +1,22 @@
+.genrehistory-header-container{
+    display: flex;
+    height: 200px;
+}
+
+.genrehistory-header-container ul{
+    margin-right: 100px;
+}
+
+.genrehistory-header-container ul li{
+    background-color: lightgrey;
+    list-style-type: none;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+}
+
+.genrehistory-header-container ul li a{
+    text-decoration: none;
+}

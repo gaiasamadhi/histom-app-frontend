@@ -1,0 +1,15 @@
+.radial-menu-container{
+    position:absolute;
+    top: 38px;
+    left: 953px;
+}
+
+.radial-menu-button{
+background-size: contain !important;
+background-position: center;
+}
+
+.radial-menu-circle .children{
+    background-size: contain !important;
+    background-position: center;
+    }
