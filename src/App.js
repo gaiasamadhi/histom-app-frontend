@@ -8,7 +8,6 @@ function App() {
   return (
     <Router>
         <Header />
-        <h1>The histom app !!.'_'.!!</h1>
         <Content />
     </Router>
   )
